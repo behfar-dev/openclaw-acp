@@ -7,8 +7,6 @@ build/
 *.tsbuildinfo
 
 # Environment and secrets
-.env
-.env.local
 .env.*.local
 config.json
 
@@ -24,7 +22,6 @@ Thumbs.db
 
 # IDE / editor
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -36,3 +33,4 @@ coverage/
 
 
 local/
+config.bat
